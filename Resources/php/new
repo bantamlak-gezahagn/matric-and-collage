@@ -1,0 +1,4 @@
+.tm-nav div ul li{
+    display:inline-block;  
+   
+}
